@@ -13,4 +13,13 @@
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+    <style name="TitleTextStyle">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/purple_700</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="ButtonTextStyle">
+        <item name="android:textSize">60sp</item>
+        <item name="backgroundTint">@color/purple_200</item>
+    </style>
 </resources>
